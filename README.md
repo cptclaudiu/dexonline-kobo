@@ -1,8 +1,8 @@
 # Romanian Dictionary for Kobo eReader
 
-[![GitHub release](https://img.shields.io/github/v/release/USERNAME/REPO)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO/total)](../../releases)
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=flat)](../../stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/cptclaudiu/dexonline-kobo)](../../releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/cptclaudiu/dexonline-kobo/total)](../../releases)
+[![GitHub stars](https://img.shields.io/github/stars/cptclaudiu/dexonline-kobo?style=flat)](../../stargazers)
 [![License](https://img.shields.io/badge/license-dexonline-blue)](https://dexonline.ro/licenta)
 
 Romanian explanatory dictionary for Kobo devices, built from the [dexonline.ro](https://dexonline.ro) database.
