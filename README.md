@@ -1,7 +1,6 @@
 # Romanian Dictionary for Kobo eReader
 
-[![GitHub release](https://img.shields.io/github/v/release/cptclaudiu/dexonline-kobo)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/cptclaudiu/dexonline-kobo/total)](../../releases)
+[![Downloads](https://img.shields.io/github/downloads/cptclaudiu/dexonline-kobo/total)](https://github.com/cptclaudiu/dexonline-kobo/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/cptclaudiu/dexonline-kobo?style=flat)](../../stargazers)
 [![License](https://img.shields.io/badge/license-dexonline-blue)](https://dexonline.ro/licenta)
 
