@@ -2,9 +2,10 @@
 dex-database.sql
 dex-database.sql.gz
 
-# Generated files (except dex.zip)
+# Generated files (except dicthtml-ro.zip)
 *.df
-dicthtml-ro*.zip
+dex.zip
+dicthtml-ro-complet.zip
 dictgen
 dictutil
 
