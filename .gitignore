@@ -1,0 +1,12 @@
+# Database
+dex-database.sql
+dex-database.sql.gz
+
+# Generated files
+*.df
+*.zip
+dictgen
+dictutil
+
+# macOS
+.DS_Store
